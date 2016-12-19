@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solar System Planets</string>
+    <string name="hello">Welcome on our app</string>
+    <string name="button">See planets information</string>
+    <string name="activite2">Solar System planets information</string>
+    <string name="description">Solar System</string>
+    <string name="button2">Go back</string>
+    <string name="text">From the left to the right</string>
+    <string name="toast">Download started</string>
+    <string name="dl">Download planets information</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="toastest">Welcome</string>
+
+</resources>

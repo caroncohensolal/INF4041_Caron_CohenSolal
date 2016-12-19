@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Planètes du Système Solaire</string>
+    <string name="hello">Bienvenue sur notre application</string>
+    <string name="button">Voir les infos sur les planètes</string>
+    <string name="activite2">Infos sur les planètes du Système Solaire</string>
+    <string name="description">Système solaire</string>
+    <string name="button2">Retour</string>
+    <string name="text">De gauche à droite</string>
+    <string name="toast">Téléchargement débuté</string>
+    <string name="dl">Télécharger la fiche des planètes</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="toastest">Bienvenue</string>
+</resources>
